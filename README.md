@@ -1,5 +1,4 @@
-# Resume
-这是我的[个人简历](https://fanytang.github.io)
+
 
 <!-- 雪碧图自适应
  [demo](https://fanytang.github.io/index.html)
