@@ -78,6 +78,11 @@ aside a {
     margin-left: 50px;
     margin-top: 8px;
 }
+.describe p{
+    /* display: flex; */
+    text-indent:-5em;
+    margin-left:5em;
+}
 .describe > li{
     list-style-type: disc;
 }
